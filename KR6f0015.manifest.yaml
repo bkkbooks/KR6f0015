@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0015/v1
 canonical_location: https://kanripo.org/bkk/KR6f0015/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 郁迦羅越問菩薩行經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0015_000.yaml, hash: 'sha256:56d54c327d6863e604141b31c77d0e8367000b9baddfa9b28adc5012d3074420'}
-  - {seq: 1, filename: KR6f0015_001.yaml, hash: 'sha256:33a072da387bd7c3c90f9e6c5c1e15e2c00d106c92ff1df30a78856caa7dd099'}
+  - {seq: 1, filename: KR6f0015_001.yaml, hash: 'sha256:6604b925568a030ff1d22f95764feb65d2d4001150c6055f6d3a2c315ac31da9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0015_000.markers.yaml, hash: 'sha256:dccc53bc5e667f6c50201b6ef428c5386d4d232fea066118ecfdbb873f5c0a20'}
-  - {seq: 1, role: markers, filename: assets/KR6f0015_001.markers.yaml, hash: 'sha256:f9e52e970d0b539234d8d71d417ba27486ceaa073890188ea172b93b663eef48'}
+  - {seq: 1, role: markers, filename: assets/KR6f0015_001.markers.yaml, hash: 'sha256:d6d27613b6cba4ca57af7ec590e77a4a4c1267079fd85cac8ba853b1b25f595d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -129,4 +129,7 @@ table_of_contents:
   label: 8 閑居品
   type: mulu
   level: 1
-hash: sha256:8d79b34a7910ff09ba4d8194b82cb4908baac64853eefb87de5af6dbd4851fb6
+hash: sha256:cab503c08206ae5b3c31b86e91a1b1236d54e2d09e0a6a7b4f77c87351c81a08
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
