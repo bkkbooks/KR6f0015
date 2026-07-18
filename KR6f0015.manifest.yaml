@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6f0015_000.yaml, hash: 'sha256:56d54c327d6863e604141b31c77d0e8367000b9baddfa9b28adc5012d3074420'}
   - {seq: 1, filename: KR6f0015_001.yaml, hash: 'sha256:6604b925568a030ff1d22f95764feb65d2d4001150c6055f6d3a2c315ac31da9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0015_000.markers.yaml, hash: 'sha256:dccc53bc5e667f6c50201b6ef428c5386d4d232fea066118ecfdbb873f5c0a20'}
+  - {seq: 0, role: markers, filename: assets/KR6f0015_000.markers.yaml, hash: 'sha256:601be907a8537d3f687c434fcbcaa90d3d6918fdf68e12a43b52b96427204441'}
   - {seq: 1, role: markers, filename: assets/KR6f0015_001.markers.yaml, hash: 'sha256:d6d27613b6cba4ca57af7ec590e77a4a4c1267079fd85cac8ba853b1b25f595d'}
 table_of_contents:
 - ref:
@@ -129,7 +129,7 @@ table_of_contents:
   label: 8 閑居品
   type: mulu
   level: 1
-hash: sha256:cab503c08206ae5b3c31b86e91a1b1236d54e2d09e0a6a7b4f77c87351c81a08
+hash: sha256:716ccfe18d358c68675cf6d19b8bca0562e56bf7ba504a22bb185259b96018c9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
